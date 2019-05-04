@@ -34,7 +34,7 @@ If you don't have an account, you'll be redircted to ChooseDepartment.php page, 
 
 ## Built With
 
-* Php - PhpMyAdmin - Xampp
+* PHP - PhpMyAdmin - Xampp
 
 * HTML - CSS - Bootstrap - Javascript  
 
