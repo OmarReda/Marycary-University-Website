@@ -42,7 +42,7 @@ If you don't have an account, you'll be redircted to ChooseDepartment.php page, 
 
 
 ## Notes
-Form is validated against blank entries and re-used emails.
+Form is validated against blank entries.
 
 
 ## Samples
